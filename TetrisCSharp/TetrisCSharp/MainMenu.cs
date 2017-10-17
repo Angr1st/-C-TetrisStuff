@@ -10,7 +10,7 @@ using System.Windows.Forms;
 
 namespace TetrisCSharp
 {
-    public partial class Form1 : Form
+    public partial class MainMenu : Form
     {
         ScoreboardForm m_ScoreboardForm;
         GameForm m_GameForm;
@@ -18,7 +18,7 @@ namespace TetrisCSharp
         private int m_Score = 0;
 
 
-        public Form1()
+        public MainMenu()
         {
             InitializeComponent();
         }

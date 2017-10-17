@@ -23,3 +23,15 @@ C:\Users\t.clasen\CSharpTetrisWithBackEnd\TetrisCSharp\TetrisCSharp\obj\Debug\Te
 C:\Users\t.clasen\CSharpTetrisWithBackEnd\TetrisCSharp\TetrisCSharp\bin\Debug\TetrisCSharp.exe.config
 C:\Users\t.clasen\CSharpTetrisWithBackEnd\TetrisCSharp\TetrisCSharp\bin\Debug\TetrisCSharp.exe
 C:\Users\t.clasen\CSharpTetrisWithBackEnd\TetrisCSharp\TetrisCSharp\bin\Debug\TetrisCSharp.pdb
+C:\Users\t.clasen\Source\Repos\-C-TetrisStuff\TetrisCSharp\TetrisCSharp\bin\Debug\TetrisCSharp.exe.config
+C:\Users\t.clasen\Source\Repos\-C-TetrisStuff\TetrisCSharp\TetrisCSharp\bin\Debug\TetrisCSharp.exe
+C:\Users\t.clasen\Source\Repos\-C-TetrisStuff\TetrisCSharp\TetrisCSharp\bin\Debug\TetrisCSharp.pdb
+C:\Users\t.clasen\Source\Repos\-C-TetrisStuff\TetrisCSharp\TetrisCSharp\obj\Debug\TetrisCSharp.csprojResolveAssemblyReference.cache
+C:\Users\t.clasen\Source\Repos\-C-TetrisStuff\TetrisCSharp\TetrisCSharp\obj\Debug\TetrisCSharp.MainMenu.resources
+C:\Users\t.clasen\Source\Repos\-C-TetrisStuff\TetrisCSharp\TetrisCSharp\obj\Debug\TetrisCSharp.GameForm.resources
+C:\Users\t.clasen\Source\Repos\-C-TetrisStuff\TetrisCSharp\TetrisCSharp\obj\Debug\TetrisCSharp.Properties.Resources.resources
+C:\Users\t.clasen\Source\Repos\-C-TetrisStuff\TetrisCSharp\TetrisCSharp\obj\Debug\TetrisCSharp.ScoreboardForm.resources
+C:\Users\t.clasen\Source\Repos\-C-TetrisStuff\TetrisCSharp\TetrisCSharp\obj\Debug\TetrisCSharp.csproj.GenerateResource.Cache
+C:\Users\t.clasen\Source\Repos\-C-TetrisStuff\TetrisCSharp\TetrisCSharp\obj\Debug\TetrisCSharp.csproj.CoreCompileInputs.cache
+C:\Users\t.clasen\Source\Repos\-C-TetrisStuff\TetrisCSharp\TetrisCSharp\obj\Debug\TetrisCSharp.exe
+C:\Users\t.clasen\Source\Repos\-C-TetrisStuff\TetrisCSharp\TetrisCSharp\obj\Debug\TetrisCSharp.pdb
